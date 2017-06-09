@@ -1,0 +1,59 @@
+10167005-0.rlx
+no result
+10167005.rlx
+no result
+2901760.rlx
+P-O/I-N/C-N/J-N/E-N/H-N Jupe impe sur Pal riz homo et hetero 
+2901828.rlx
+P-O/I-N/C-N/J-N/E-N/H-N
+2901836.rlx
+P-O/I-N/C-N/J-N/E-N/H-N
+JUPE CARTON SUR PAL RIZ HOMO+HETERO IMP
+attention RDV noté sur cde - RDV A : 9h à 9h30
+TEL 03.21.11.40.21
+
+2901893.rlx
+P-O/I-N/C-N/J-N/E-N/H-N
+Zone desservie LUNDI - MERCREDI - VENDREDI
+Tel pour RDV avant liv au 03.21.61.60.32 (S JAMART) 11H30
+11H30
+2902479.rlx
+P-O/I-N/C-N/J-N/E-N/H-N
+Trspt FABV/Livraison Mardi Jeudi Vendredi-rdv 8h45-9h15
+livrer à PRODIREST entre 0 et 0
+
+2902743.rlx
+P-O/I-N/C-N/J-N/E-N/H-N
+10H15
+2902842.rlx
+P-O/I-N/C-N/J-N/E-N/H-N
+TEL 0247777111 -RDV pour la livraison
+fixé le jour de la commande
+
+2903048.rlx
+P-O/I-N/C-O/J-N/E-N/H-N
+TEL 03 89 78 33 00 LIV ENTRE 5H ET 10H
+livrer à ALDIS 1 Réf/Palette impératif
+2924259.rlx
+P-N/I-N/C-N/J-N/E-N/H-N
+livraison entre  6h et 11h
+
+3297564.rlx
+P-N/I-N/C-N/J-N/E-N/H-N
+Prendre RDV impérativement sur l'interface DC TRANSPORT PLANNER
+
+3299917.rlx
+P-N/I-N/C-N/J-N/E-N/H-N
+ATTENTION PALETTISATION LIDL
+Prendre RDV impérativement sur l'interface DC TRANSPORT PLANNER ou au 02.32.20.29.28
+3300335.rlx
+1 ref /palette
+3300822.rlx
+P-O/I-N/C-N/J-N/E-N/H-N
+PALETTES INTERMEDIAIRES POUR LA PREPA DES COMMANDES
+LIV ENTRE     ET     chez  ALDIS tel 0556339000 
+
+
+
+3301028.rlx
+1 réf par palette
